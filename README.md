@@ -1,4 +1,8 @@
 # SYST17796-Memory-Compiler-Game
+<h2>Requirements:</h2>
+
+JDK 15.0<br>
+
 This was a card game that was developed for SYST17796 - Fundamentals of Software Design at Sheridan College. 
 As team lead, it was my responsibility to keep my team on track and to meet strict deadlines. 
 This card game showed myself and my team how Object Oriented Programming could be applied with a simple card game using a MVC design pattern
