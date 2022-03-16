@@ -1,37 +1,153 @@
-# SYST17796-Memory-Compiler-Game
-<h2>Requirements:</h2>
+<div id="top"></div>
 
-JDK 15.0<br>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h2>Project Descrpition:</h2>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game">
+    <img src="https://user-images.githubusercontent.com/19481324/158642612-e676c8ff-6e5f-40b7-9539-f7f95d419034.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Memory</h3>
+
+  <p align="center">
+    Memory is a 2 player compiler card game; Test your Memory!
+    <br />
+    <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game">View Demo</a>
+    ·
+    <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Launch](https://user-images.githubusercontent.com/19481324/158642556-3b8ba213-fdd7-4e70-a814-e9ff7ff0e1c2.png)
 
 This was a card game that was developed for SYST17796 - Fundamentals of Software Design at Sheridan College. 
 As team lead, it was my responsibility to keep my team on track and to meet strict deadlines. 
 This card game showed myself and my team how Object Oriented Programming could be applied with a simple card game using a MVC design pattern
 
-Memory is a 2 player compiler card game.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Memory has a set of rules:
+
+
+### Built With
+
+* [Java - JDK 15.0](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Usage
+### Rules:
 1. The deck of cards is shuffled and dealt out in a 4x13 grid. A,B,C & D will be our rows. 1-13 will be our columns.
 2. The players each take turns flipping the cards over.
 3. If the cards are both the same value and color then it's a match.
 4. If the cards are not a match, then its the opponents turn.
-<br><br>
-<h2>Start the game:</h2>
 
-![Launch](https://user-images.githubusercontent.com/19481324/158503862-5bb6d9fb-395e-4014-b4de-0a68e186d9b5.png)
-
-<h2>Enter in player names:</h2>
-
+#### After launch, enter in player names:
 ![Player-names](https://user-images.githubusercontent.com/19481324/158503934-d0f6ee7b-2491-4433-8f1c-1e69fc728f7f.png)
 
-<h2>After the first turn:</h2>
-
+#### After player one's first turn:
 ![After-player1-first-turn](https://user-images.githubusercontent.com/19481324/158504027-2fddc567-7856-48f9-a936-fa71322dd7ea.PNG)
 
-<h2>After a player scores:</h2>
-
+#### After a player scored:
 ![player2-scored](https://user-images.githubusercontent.com/19481324/158504066-3909b66d-f7ca-4c59-8cbf-7560b9891963.PNG)
 
-<br><br>
-This will continue until the whole grid is cleared and will show the final score as well as a message asking if the players would like to play again
+#### This will continue until the whole grid is cleared and will show the final score as well as a message asking if the players would like to play again!
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the GNU License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@linkedin](https://www.linkedin.com/in/robert-madill/) - robertmadill17@gmail.com
+
+Project Link: [https://github.com/RobMadill/SYST17796-Memory-Compiler-Game](https://github.com/RobMadill/SYST17796-Memory-Compiler-Game)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Othneil Drew - README template](https://github.com/othneildrew/Best-README-Template)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/RobMadill/SYST17796-Memory-Compiler-Game.svg?style=for-the-badge
+[contributors-url]: https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RobMadill/SYST17796-Memory-Compiler-Game.svg?style=for-the-badge
+[forks-url]: https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/network/members
+[stars-shield]: https://img.shields.io/github/stars/RobMadill/SYST17796-Memory-Compiler-Game.svg?style=for-the-badge
+[stars-url]: https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RobMadill/SYST17796-Memory-Compiler-Game.svg?style=for-the-badge
+[issues-url]: https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/issues
+[license-shield]: https://img.shields.io/github/license/RobMadill/SYST17796-Memory-Compiler-Game.svg?style=for-the-badge
+[license-url]: https://github.com/RobMadill/SYST17796-Memory-Compiler-Game/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/robert-madill/
