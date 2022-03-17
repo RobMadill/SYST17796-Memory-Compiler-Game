@@ -17,7 +17,7 @@
 <h3 align="center">Memory</h3>
 
   <p align="center">
-    Memory is a 2 player compiler card game; Test your Memory!
+    Got a good memory? in this 2 player java compiler game, play a game of Memory with someone and see who has the better memory!
     <br />
     <a href="https://github.com/RobMadill/SYST17796-Memory-Compiler-Game"><strong>Explore the docs »</strong></a>
     <br />
