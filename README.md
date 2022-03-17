@@ -55,8 +55,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Launch](https://user-images.githubusercontent.com/19481324/158642556-3b8ba213-fdd7-4e70-a814-e9ff7ff0e1c2.png)
-
 This was a card game that was developed for SYST17796 - Fundamentals of Software Design at Sheridan College. 
 As team lead, it was my responsibility to keep my team on track and to meet strict deadlines. 
 This card game showed myself and my team how Object Oriented Programming could be applied with a simple card game using a MVC design pattern
@@ -79,7 +77,10 @@ This card game showed myself and my team how Object Oriented Programming could b
 3. If the cards are both the same value and color then it's a match.
 4. If the cards are not a match, then its the opponents turn.
 
-#### After launch, enter in player names:
+#### After launch:
+![Launch](https://user-images.githubusercontent.com/19481324/158642556-3b8ba213-fdd7-4e70-a814-e9ff7ff0e1c2.png)
+
+#### Enter in player names:
 ![Player-names](https://user-images.githubusercontent.com/19481324/158503934-d0f6ee7b-2491-4433-8f1c-1e69fc728f7f.png)
 
 #### After player one's first turn:
