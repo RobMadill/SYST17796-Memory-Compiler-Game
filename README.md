@@ -54,10 +54,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This project was the final assignment of my Fundamentals of Software Design course at Sherian College. The objective was to collaborate as a team to design and develop a card game called Memory while adhering to all Object-Oriented design principles.<br><br>
+Memory tests your ability to remember cards and their location within a grid. Two players are presented with a list of rules followed by a deck of cards shuffled and dealt out in a 4x13 grid. A, B, C, D will be our rows and 1-13 will be our columns. The goal is to match two cards in the grid with the same value and suit.
+<br><br>
+This project was developed using Java with the intent of applying Object-Oriented design principles. Java’s support with classes, objects, encapsulation, inheritance, abstraction, and polymorphism allowed us to easily showcase these core concepts. We utilized various design patterns, such as the Singleton pattern for our GroupOfCards class as well as the Factory pattern to create instances of different objects such as PlayingCard and Game. Additionally, the project implemented the use of Enum classes for type safety.
 
-This was a card game that was developed for SYST17796 - Fundamentals of Software Design at Sheridan College. 
-As team lead, it was my responsibility to keep my team on track and to meet strict deadlines. 
-This card game showed myself and my team how Object Oriented Programming could be applied with a simple card game using a MVC design pattern
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
